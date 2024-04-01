@@ -10,7 +10,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://arxiv.org/" style="text-decoration: none;">
+            <a href="https://arxiv.org/abs/2403.20116" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/ArXiv-000000?style=for-the-badge&logoColor=white&logo=arxiv" alt="ArXiv Logo">
             </a>
         </td>
@@ -22,7 +22,18 @@
     </tr>
 </table>
 
+<hr>
 
-
+### Cite Us
+```
+@misc{paul2024legodrive,
+      title={LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving}, 
+      author={Pranjal Paul and Anant Garg and Tushar Choudhary and Arun Kumar Singh and K. Madhava Krishna},
+      year={2024},
+      eprint={2403.20116},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
 
 
