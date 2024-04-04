@@ -26,13 +26,11 @@
 
 ### Cite Us
 ```
-@misc{paul2024legodrive,
-      title={LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving}, 
-      author={Pranjal Paul and Anant Garg and Tushar Choudhary and Arun Kumar Singh and K. Madhava Krishna},
-      year={2024},
-      eprint={2403.20116},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@article{paul2024lego,
+  title={LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving},
+  author={Paul, Pranjal and Garg, Anant and Choudhary, Tushar and Singh, Arun Kumar and Krishna, K Madhava},
+  journal={arXiv preprint arXiv:2403.20116},
+  year={2024}
 }
 ```
 
